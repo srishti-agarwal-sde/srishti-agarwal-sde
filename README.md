@@ -1,14 +1,16 @@
 [![MasterHead](https://template.canva.com/EAENvp21inc/1/0/1600w-qt_TMRJF4m0.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Srishti Agarwal</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer originally from India, now based in Germany</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/b7e84cd7df9d883ebab3618b73506c04d2b867b5249291268930f0ab1f02e2e2/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d32625a496a5047432d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e676966">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srishti-agarwal-sde&label=Profile%20views&color=0e75b6&style=flat" alt="srishti-agarwal-sde" /> </p>
 
-- 🌱 I’m currently learning **Native React**
+- 🌱 I have 4+ years of experience building web applications using **React**, **Node.js**, **JavaScript**, **TypeScript**, **MySQL**, **MongoDB** and more.
+  
+- Currently, I’m exploring **new job opportunities** and exciting challenges in software development.
 
-- 💬 Ask me about **Python, MySQL, Java, PHP**
+- 💬 Ask me about **React, Node.js, Python, MySQL, JavaScript, PHP**
 
 - 📫 How to reach me **srishti.agarwal60@gmail.com**
 
