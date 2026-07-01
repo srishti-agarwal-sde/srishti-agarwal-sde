@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srishti-agarwal-sde&label=Profile%20views&color=0e75b6&style=flat" alt="srishti-agarwal-sde" /> </p>
 
-- 🌱 I have 4+ years of experience building web applications using **React**, **Node.js**, **JavaScript**, **TypeScript**, **MySQL**, **MongoDB** and more.
+- 🌱 I have 5+ years of experience building web applications using **ReactJS**, **NodeJS**, **JavaScript**, **TypeScript**, **MongoDB**, **MySQL**, **PostgreSQL** and more.
   
 - Currently, I’m exploring **new job opportunities** and exciting challenges in software development.
 
-- 💬 Ask me about **React, Node.js, Python, MySQL, JavaScript, PHP**
+- 💬 Ask me about **React.js, Node.js, Python, MySQL, JavaScript, MongoDB, System Design**
 
 - 📫 How to reach me **srishti.agarwal60@gmail.com**
 
